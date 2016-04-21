@@ -5,7 +5,7 @@ Authors: Alexander J. Titus, E. Andres Houseman, Kevin C. Johnson, Brock C. Chri
 A utility to map whole-genome & reduced representation bisulfite sequencing (WGBS/RRBS) data by genomic position to the Illumina 450K Methylation Array CpG sites.
 
 
-# 450K annotation file
+## 450K annotation file
 Illumina Infinium HumanMethylation450K bead chip manifest file can be found here:
 
 https://support.illumina.com/array/array_kits/infinium_humanmethylation450_beadchip_kit/downloads.html
@@ -16,7 +16,7 @@ Or it can be found in the Bioconductor package: "IlluminaHumanMethylation450kann
 https://bioconductor.org/packages/release/data/annotation/html/IlluminaHumanMethylation450kanno.ilmn12.hg19.html
 
 
-# 850K annotation file
+## 850K annotation file
 Illumina Infinium MethylationEPIC bead chip manifest file can be found here:
 
 https://support.illumina.com/array/downloads.html
